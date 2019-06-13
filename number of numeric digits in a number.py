@@ -1,5 +1,5 @@
-n=input()
+p=input()
 count=0
-for i in n:
+for r in p:
 	count=count+1
 print(count)
