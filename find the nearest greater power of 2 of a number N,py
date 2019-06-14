@@ -1,0 +1,3 @@
+w=int(input())
+h=w*2
+print(h)
